@@ -3,11 +3,7 @@
 You can use the [editor on GitHub](https://github.com/JackSorrell/freebrew.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
- <body style="background-image:url('clouds.jpg')">
-
-<h2>Background Image</h2>
-
-</body> 
+ 
 
 ### Markdown
 
